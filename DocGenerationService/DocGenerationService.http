@@ -1,0 +1,6 @@
+@DocGenerationService_HostAddress = http://localhost:5190
+
+GET {{DocGenerationService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
